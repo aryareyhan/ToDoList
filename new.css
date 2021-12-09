@@ -10,7 +10,7 @@ body{
     color: white;
     padding: 1em 5em;
     font-family: 'Nunito', sans-serif;
-    /* margin-inline: auto; */
+    margin-inline: auto;
 }
 button{
     width: 5.5em;
@@ -67,6 +67,9 @@ button,input[type="text"]{
 }
 .sfull.itemdone {
     opacity: 0.4;
+}
+.sfull.itemdone > .sbtn > .sedit{
+    pointer 
 }
 .sfull.itemdone > .sbtn > .sedit{
     pointer-events: none;
