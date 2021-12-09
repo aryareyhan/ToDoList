@@ -66,7 +66,7 @@ button,input[type="text"]{
     background-color: #09c0a1;
 }
 .sfull.itemdone {
-    opacity: 0.4;
+    opacity: 0.5;
 }
 
 .sfull.itemdone > .sbtn > .sedit{
