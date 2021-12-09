@@ -68,6 +68,9 @@ button,input[type="text"]{
 .sfull.itemdone {
     opacity: 0.4;
 }
+.sfull.itemdone > .sbtn > .sedit{
+    pointer-events: none;
+}
 
 .sfull, #small,.sfull > div{
     display: flex;
